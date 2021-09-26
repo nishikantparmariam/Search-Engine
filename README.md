@@ -1,7 +1,7 @@
 # Acad Search
 
 
-The web app is live at [acadsearch.pythonanywhere.com](https://acadsearch.pythonanywhere.com), its recommended to open in Desktop mode for better user experience.
+The web app is live at [acadsearch.pythonanywhere.com](https://acadsearch.pythonanywhere.com) (It is down currently), its recommended to open in Desktop mode for better user experience.
 
 ## Table of Contents
 
